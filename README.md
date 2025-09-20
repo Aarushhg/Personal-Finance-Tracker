@@ -30,7 +30,7 @@
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/cashly.git
+    git clone https://github.com/yourusername/Personal-Finance-Tracker.git
     cd cashly
     ```
 
@@ -43,7 +43,7 @@
     ```env
     MONGO_URI=your_mongodb_connection_string
     JWT_SECRET=your_jwt_secret
-    GEMINI_API_KEY=your_api_key (if using AI)
+    GEMINI_API_KEY=your_api_key 
     ```
     - Start the backend:
     ```bash
