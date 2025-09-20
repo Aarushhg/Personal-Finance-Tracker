@@ -1,10 +1,10 @@
-# Cashly
+# 💸Cashly
 
 **Cashly** is a modern, intuitive finance tracker app that helps users manage expenses, track budgets, set financial goals, and view transaction history. With AI assistance, dark mode, and a responsive design, Cashly provides a seamless experience for smart personal finance management.  
 
 ---
 
-## Features
+## ✨ Features
 
 - **Expense Tracking** – Add, edit, and delete transactions easily.  
 - **Budgets & Goals** – Set budgets and track progress towards financial goals.  
@@ -16,7 +16,7 @@
 
 ---
 
-## Tech Stack
+## 🛠️Tech Stack
 
 - **Frontend:** React, Tailwind CSS, React Router  
 - **Backend:** Node.js, Express  
@@ -26,7 +26,7 @@
 
 ---
 
-## Installation
+## 🚀Installation
 
 1. **Clone the repository**
     ```bash
